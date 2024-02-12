@@ -1,0 +1,7 @@
+TOKEN = "6475496077:AAGpJkptVdA0LQRhkj3p1RHql4QyWJ0EN6E"
+
+courses = {
+    "USD": 12464.91,
+    "EUR": 13440.91,
+    "RUB": 136.59
+}
